@@ -44,7 +44,7 @@ GitHub Pages can be used to create simple website pages using Markdown, but it c
 
 9. In order to make your website visible to others, we will need to change some of the settings. 
 
-![Settings tab](images/setting.PNG)
+![Settings tab](images/settings.PNG)
 
 10. Scroll down towards the bottom of the page to locate the GitHub Pages section. Change the *source* to *master branch*.
 
