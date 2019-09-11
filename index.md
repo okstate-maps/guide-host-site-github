@@ -54,7 +54,9 @@ GitHub Pages can be used to create simple website pages using Markdown, but it c
 
 ![Link to website](images/link.PNG)
 
-12. If you realize you need to update your site once your files are uploaded, you can do this in just a few steps. 
+12. If you realize you need to update your site once your files are uploaded, you can do this in just a few steps. Just click *Edit*, make any necessary changes, and don't forget to commit the changes!
+
+![Edit button](images/edit.PNG)
 
 ## Conclusion
 GitHub Pages make it so easy to host your very own website creations! Following the above steps will ensure a successful website hosting experience.
